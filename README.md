@@ -53,7 +53,7 @@ The application is deployed on **Hugging Face Spaces** for easy accessibility.
 ## Repository Link
 [Traffic Sign Detection Using YOLOv8](https://github.com/muhammadrizwan11/Traffic-Sign-Detection-Using-Yolov8)
 
-## License
+## Licens
 This project is licensed under the MIT License.
 
 ## Contact
